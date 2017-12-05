@@ -1,6 +1,6 @@
 $( document ).ready(function() {
 
-var cities = ["Atlanta", "Chicago", "Miami", "Dallas", "Austin", "Houston"];
+var cities = ["Atlanta", "Chicago", "Miami", "Dallas", "Austin", "Houston" "Boston", "Seattle", "Detriot", "Shanghai"];
 
 
 function init(){
